@@ -1,7 +1,7 @@
 # RC5-16/8/12 — AVR ATmega328P Assembly Implementation
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-A bare-metal implementation of the **RC5 symmetric block cipher** written entirely in **AVR assembly** for the ATmega328P microcontroller. Built as part of a university cybersecurity curriculum to explore low-level cryptographic primitives on constrained embedded hardware.
+A bare-metal implementation of the **RC5 symmetric block cipher** written entirely in **AVR assembly** for the ATmega328P microcontroller. Built as part of a university curriculum to explore low-level cryptographic primitives on constrained embedded hardware.
 
 ---
 
